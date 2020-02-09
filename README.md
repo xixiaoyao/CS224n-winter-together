@@ -4,7 +4,7 @@ CS224N 2020 Winter 已经开课啦！无论是初学者还是已经有一定经�
 
 ![img](https://uploader.shimo.im/f/yN0eiuBdyLMQhl34.png!thumbnail)
 
-欢迎大家加入【2020-winter交流群】与800多小伙伴一起打卡交流学习，fork项目，通过issue提出问题，我们将及时回答并定期归档。冲鸭~
+欢迎大家加入【2020-winter交流群】与800多小伙伴一起打卡交流学习，通过微信交流群（推荐）或github issue提出问题，我们将及时回答并定期归档。冲鸭~
 
 ![img](https://uploader.shimo.im/f/RQJ6aDzCJPg8PRoS.png!thumbnail)
 
