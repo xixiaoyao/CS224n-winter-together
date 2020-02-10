@@ -10,6 +10,8 @@
 
 #### 项目目录
 
+```text
+.
 ├── Lectures（课程资料）
 │   ├── Class 1. Introduction and Word Vectors
 |   |    ├── video（教学视频，配中英双语字幕） 
@@ -31,7 +33,7 @@
 │
 └─── Projects（项目实战）
      └── upload（**大家在该目录上传自己队伍完成的实战项目，目前暂未开放**）
-
+```
 
 #### 课程计划
 
