@@ -1,14 +1,14 @@
 ## [CS224N-winter-together](https://github.com/xixiaoyao/CS224n.2020)
 
-`CS224n-winter-together` 是由微信公众号**【夕小瑶的卖萌屋】**发起的开源课程学习项目，**本项目旨在为大家提供一个课程笔记、个人感悟、课程作业与project**的分享交流平台，**每个人均可**将自己的笔记、感悟、作业等提交到该repo下面对应课程的文件夹底下，来方便大家参考学习，提交方式见[这里]()，另外，鼓励大家以markdown格式进行提交以免repo大小增长过快。
+`CS224n-winter-together`（又叫`Stanford CS224n追剧计划`）是由微信公众号 [夕小瑶的卖萌屋](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&token=1203749132&lang=zh_CN#rd) 发起的开源课程学习项目，**本项目旨在为大家提供一个课程笔记、个人感悟、课程作业与project**的分享交流平台，**每个人均可**将自己的笔记、感悟、作业等提交到该repo下面对应课程的文件夹底下，来方便大家参考学习，提交方式见[这里]()，另外，鼓励大家以markdown格式进行提交以免repo大小增长过快。
 
 本项目在2020年斯坦福大学开设的自然语言处理课程CS224n的基础上建立，注意，由于2020年的视频现在没有对外放出，因此视频资料是2019年的（不过连线斯坦福的小伙伴问了一下，区别不大，PPT也更新不大），其他资料均为今年的。
 
 > Stanford CS224n官方课程主页：http://web.stanford.edu/class/cs224n
 
-更多关于该开源开放计划的攻略见[【这里】](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&token=1203749132&lang=zh_CN#rd)
+关于该计划的详细攻略见 [这里](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&token=1203749132&lang=zh_CN#rd)
 
-#### 项目目录
+### 项目目录
 
 ```text
 .
@@ -35,7 +35,7 @@
      └── upload（大家在该目录上传自己队伍完成的实战项目，目前暂未开放）
 ```
 
-#### 课程计划
+### 课程计划
 
 微信公众号**夕小瑶的卖萌屋**将每周推送两集课程视频（中英双语字幕）和对应的官方ppt/笔记/推荐阅读材料等，并发布课后作业。
 
@@ -51,19 +51,23 @@
 - week10：Constituency Parsing and Tree Recursive Neural Networks / Recent Advances in Low Resource Machine Translation
 - week11：Future of NLP + Deep Learning
 
-#### 笔记、感悟和作业贡献流程
+### 个人笔记、感悟和作业提交流程
 
-**1. fork项目**
+请务必保证原创！若发现其他同学的笔记、作业等提交中有错误，鼓励提PR互相修复。另外，鼓励大家在上传的原创资料中留下联系方式，以便学习讨论和错误纠正。
+
+**提交流程：**
+
+*step 1.* fork项目
 ```shell
 git clone https://github.com/xixiaoyao/CS224n-winter-together.git
 ```
-**2. 在自己的项目里提交笔记和作业到对应课程的指定文件夹。**
 
-**3. 创建 pull request (pr)，添加详细清楚的pr的描述。**
+*step 2*. 在自己的项目里提交笔记和作业到对应课程的指定文件夹。*
 
-详细的可以参考：https://www.jianshu.com/p/b365c743ec8d 。
+*step 3.* 创建 pull request (pr)，添加详细清楚的pr的描述。*
 
-#### 课前准备FAQ
+
+### 课前准备FAQ
 
 1. 我想看往年的课件和讲义，去哪儿下载？
 
@@ -83,6 +87,6 @@ git clone https://github.com/xixiaoyao/CS224n-winter-together.git
 
 ---
 
-   欢迎大家加入【2020-winter交流群】与800多小伙伴一起打卡交流学习，通过微信交流群（推荐）或github issue提出问题，我们将及时回答并定期归档。
+   极力建议大家加入`夕小瑶@Stanford CS224n追剧群`与上千小伙伴一起打卡交流学习，通过微信交流群（推荐）或github issue提出的问题，我们将定期精选并在每期的订阅号文章推送和本github项目中沉淀。
 
-<center><img width="80%" src=".README/xxy_2.jpeg"></img></center>
+<center><img width="70%" src=".README/xxy_2.jpeg"></img></center>
