@@ -1,25 +1,37 @@
 ## [CS224N-winter-together](https://github.com/xixiaoyao/CS224n.2020)
 
-CS224n-winter-together 计划是由微信公众号**夕小瑶的卖萌屋**发起的开源课程学习项目，**本项目旨在为大家提供一个课程笔记、个人感悟、课程作业与project**的分享交流平台，**每个人均可**将自己的笔记、感悟、作业等提交到该repo下面对应课程的文件夹底下，来方便大家参考学习。其中，鼓励大家以markdown格式进行提交以免repo大小增长过快。
+`CS224n-winter-together` 是由微信公众号**【夕小瑶的卖萌屋】**发起的开源课程学习项目，**本项目旨在为大家提供一个课程笔记、个人感悟、课程作业与project**的分享交流平台，**每个人均可**将自己的笔记、感悟、作业等提交到该repo下面对应课程的文件夹底下，来方便大家参考学习，提交方式见[这里]()，另外，鼓励大家以markdown格式进行提交以免repo大小增长过快。
 
 本项目在2020年斯坦福大学开设的自然语言处理课程CS224n的基础上建立，注意，由于2020年的视频现在没有对外放出，因此视频资料是2019年的（不过连线斯坦福的小伙伴问了一下，区别不大，PPT也更新不大），其他资料均为今年的。
 
 > Stanford CS224n官方课程主页：http://web.stanford.edu/class/cs224n
 
-#### 目录结构：
+更多关于该开源开放计划的攻略见[【这里】](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&token=1203749132&lang=zh_CN#rd)
 
-- Lectures
-  - Class 1. Introduction and Word Vectors
-    - slides （课件）
-    - additional readings（推荐阅读）
-    - FAQ（问题总结）
-    - notes（笔记）
-    ...
+#### 项目目录
 
-- Assignments
-  - Assignment 1
-    - upload（大家上传自己作业的目录）
-...
+├── Lectures（课程资料）
+│   ├── Class 1. Introduction and Word Vectors
+|   |    ├── video（教学视频，配中英双语字幕） 
+│   │    ├── slides (课件）
+│   │    ├── additional readings（推荐阅读）
+│   │    ├── FAQ（问题总结，整理自微信讨论群）
+│   │    └── notes（官方笔记）
+│   ├── Class ...
+│   └── Class N. 
+│
+├─── Assignments（课程作业）
+│    ├─- Assignment 1
+│    │   └── upload（**大家在该目录上传自己完成的作业**）
+│    ├─- Assignment ...
+│    └── Assignment N 
+│
+├─── Feature Notes（第三方笔记、感悟和延伸文章）
+│    └── upload（**大家在该目录上传自己完成的笔记、感悟和延伸文章，请务必保证原创**）
+│
+└─── Projects（项目实战）
+     └── upload（**大家在该目录上传自己队伍完成的实战项目，目前暂未开放**）
+
 
 #### 课程计划
 
