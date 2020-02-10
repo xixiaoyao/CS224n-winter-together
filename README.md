@@ -2,11 +2,11 @@
 
 CS224N 2020 Winter 已经开课啦！无论是初学者还是已经有一定经验的算法工程师，这门课无疑是自我提升的不二选择。可是理想总是远大的，真正坚持刷完的小伙伴少之又少。为了更好地学习和交流，公众号【夕小瑶的卖萌屋】发起了**CS224N的华人追剧计划**，建立同期学习交流群，将学习资料和有价值的讨论和问题总结到这个项目中。
 
-![img](.README/xxy_1.jpeg)
+<img width="50%" src=".README/xxy_1.jpeg"></img>
 
 欢迎大家加入【2020-winter交流群】与800多小伙伴一起打卡交流学习，通过微信交流群（推荐）或github issue提出问题，我们将及时回答并定期归档。冲鸭~
 
-![img](.README/xxy_2.jpeg)
+<img width="50%" src=".README/xxy_2.jpeg"></img>
 
 > CS224N课程主页：http://web.stanford.edu/class/cs224n
 
