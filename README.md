@@ -67,5 +67,10 @@ CS224N 2020 Winter 已经开课啦！无论是初学者还是已经有一定经�
 
 #### 笔记和作业贡献
 
-我们欢迎和鼓励大家通过提交PR来提交自己的课程笔记和完成的作业，我们会精选一些高质量的PR，定期推送到群里，供大家参考和交流。如何提交PR可以参考：https://www.jianshu.com/p/b365c743ec8d 。
+我们欢迎和鼓励大家通过提交PR来提交自己的课程笔记和完成的作业，我们会精选一些高质量的PR，定期推送到群里，供大家参考和交流。如何提交PR：
 
+1. fork项目：git clone https://github.com/xixiaoyao/CS224n-winter-together.git
+2. 在自己的项目里提交笔记和作业到对应课程的指定文件夹。
+3. 创建 pull request (pr)，添加详细清楚的pr的描述。
+
+详细的可以参考：https://www.jianshu.com/p/b365c743ec8d 。
