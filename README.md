@@ -17,9 +17,9 @@ CS224N 2020 Winter 已经开课啦！无论是初学者还是已经有一定经�
   - Class 1. Introduction and Word Vectors
 
     - slides （课件）
+    - additional readings（推荐阅读）
     - FAQ（问题总结）
-    - notes（笔记）
-  - additional readings（推荐阅读）
+  - notes（笔记）
     
     ...
 
