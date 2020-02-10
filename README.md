@@ -9,25 +9,16 @@ CS224n-winter-together 计划是由微信公众号**「夕小瑶的卖萌屋」*
 #### 目录结构：
 
 - Lectures
-
   - Class 1. Introduction and Word Vectors
-
     - slides （课件）
-    
     - additional readings（推荐阅读）
-
     - FAQ（问题总结）
-    
     - notes（笔记）
-    
     ...
 
 - Assignments
-
   - Assignment 1 
-
     - upload（大家上传自己作业的目录）
-    
 ...
 
 #### 课程计划
