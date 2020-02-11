@@ -66,11 +66,12 @@ git clone https://github.com/xixiaoyao/CS224n-winter-together.git
 ```
 
 *step 2*. 在自己的项目里提交笔记和作业到对应课程的指定文件夹。
-cs224n的作业`/CS224n-winter-together/Assignments`目录下对应章节的压缩文件中，为了方便最后的提交不产生不必要的冲突，以作业一为例子，解压缩a1文件后，改为自己的github名后，即可根据要求完成相应作业。
+
+cs224n的作业`/CS224n-winter-together/Assignments`目录下对应章节的压缩文件中，命名为homeworkX.zip的压缩包。
 
 ```
-unzip a.zip #解压缩作业
-mv a happy  #将作业进行改名
+unzip homework1.zip #解压缩作业
+mv homework1 happy  #将作业进行改名,为了方便最后的提交不产生不必要的冲突,解压缩后改为自己的github名后，即可根据要求完成相应作业。
 ```
 
 *step 3.* 本地仓库保存后，push至自己的github并创建 pull request (pr)。
