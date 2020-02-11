@@ -8,6 +8,8 @@
 
 关于该计划的详细攻略见 [这里](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&token=1203749132&lang=zh_CN#rd)
 
+关于作业提交的详细教程 [这里](https://blog.csdn.net/zyy617532750/article/details/104262005)
+
 ### 项目目录
 
 ```text
