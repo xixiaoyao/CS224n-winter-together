@@ -1,6 +1,6 @@
 ## [CS224N-winter-together](https://github.com/xixiaoyao/CS224n.2020)
 
-`CS224n-winter-together`（又叫`Stanford CS224n追剧计划`）是由微信公众号 [夕小瑶的卖萌屋](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&token=1203749132&lang=zh_CN#rd) 发起的开源课程学习项目，**本项目旨在为大家提供一个课程笔记、感悟与延伸、课程作业与project的分享与内容沉淀平台**，每个人均可将自己的笔记、感悟、作业等提交到该repo下面对应课程的文件夹底下，来方便大家参考学习，具体细节见。另外，鼓励大家以markdown格式进行提交以免repo大小增长过快。
+`CS224n-winter-together`（又叫`Stanford CS224n追剧计划`）是由微信公众号 [夕小瑶的卖萌屋](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&token=1203749132&lang=zh_CN#rd) 发起的开源课程学习项目，**本项目旨在为大家提供一个课程笔记、感悟与延伸、课程作业与project的分享与内容沉淀平台**，每个人均可将自己的笔记、感悟、作业等提交到该repo下面对应课程的文件夹底下，来方便大家参考学习，具体细节见[提交流程](https://github.com/xixiaoyao/CS224n-winter-together/blob/master/README.md#%E4%B8%AA%E4%BA%BA%E7%AC%94%E8%AE%B0%E6%84%9F%E6%82%9F%E5%92%8C%E4%BD%9C%E4%B8%9A%E6%8F%90%E4%BA%A4%E6%B5%81%E7%A8%8B)。另外，鼓励大家以markdown格式进行提交以免repo大小增长过快。
 
 本项目在2020年斯坦福大学开设的自然语言处理课程CS224n的基础上建立，注意，由于2020年的视频现在没有对外放出，因此视频资料是2019年的（不过连线斯坦福的小伙伴问了一下，区别不大，PPT也更新不大），其他资料均为今年的。
 
