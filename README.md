@@ -79,7 +79,7 @@ mv a happy  #将作业进行改名
 git push -u origin master
 ```
 
-![img](https://img-blog.csdnimg.cn/2020021113324155.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3p5eTYxNzUzMjc1MA==,size_16,color_FFFFFF,t_70)
+<center><img width="70%" src=".README/3.jpg"></img></center>
 
 关于作业提交的详细教程 [这里](https://blog.csdn.net/zyy617532750/article/details/104262005)
 
