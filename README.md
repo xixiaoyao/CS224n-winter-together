@@ -67,7 +67,7 @@ git clone https://github.com/xixiaoyao/CS224n-winter-together.git
 
 *step 2*. 在自己的项目里提交笔记和作业到对应课程的指定文件夹。
 
-cs224n的作业`/CS224n-winter-together/Assignments`目录下对应章节的压缩文件中，命名为homeworkX.zip。
+cs224n的作业位于`/CS224n-winter-together/Assignments`目录下对应章节的压缩文件中，命名为homeworkX.zip。
 
 ```
 unzip homework1.zip #解压缩作业
