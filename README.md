@@ -59,11 +59,11 @@
 
 **提交流程：**
 
-*step 1.* fork项目并将个人仓库中的项目clone到本地。
+*step 1.* fork项目并将个人仓库中的项目`git clone`到本地。
 
 *step 2*. 在本地项目仓库中添加提交笔记、作业和课程项目到对应文件夹中，然后完成`git add`（文件添加）和`git commit`（本地提交）。
 
-注意：cs224n的作业位于`Assignments`目录下，个人笔记和感悟位于`FeatureNotes`目录下，课程项目位于`Project`目录下。这三个目录均为开放性目录，每个人均可通过`pull request`来完成提交。提交细节请参考对应目录下的README文件。
+> 注意：cs224n的作业位于`Assignments`目录下，个人笔记和感悟位于`FeatureNotes`目录下，课程项目位于`Project`目录下。这三个目录均为开放性目录，每个人均可通过`pull request`来完成提交。提交细节请参考对应目录下的README文件。
 
 *step 3.* 在本地完成的提交后，通过`git push`将本地提交推送至自己的github远程仓库后，发起`pull request`。
 
