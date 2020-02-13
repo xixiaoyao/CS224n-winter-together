@@ -55,34 +55,21 @@
 
 ### 个人笔记、感悟和作业提交流程
 
-请务必保证原创！若发现其他同学的笔记、作业等提交中有错误，鼓励提PR互相修复。另外，鼓励大家在上传的原创资料中留下联系方式，以便学习讨论和错误纠正。
+请务必保证原创！若发现其他同学的笔记、作业等提交中有错误，鼓励提PR修复。另外，鼓励大家在上传的原创资料中留下联系方式，以便学习讨论和错误纠正。
 
 **提交流程：**
 
-*step 1.* fork项目
+*step 1.* fork项目并将个人仓库中的项目`git clone`到本地。
 
-```shell
-git clone https://github.com/xixiaoyao/CS224n-winter-together.git
-```
+*step 2*. 在本地项目仓库中添加提交笔记、作业和课程项目到对应文件夹中，然后完成`git add`（文件添加）和`git commit`（本地提交）。
 
-*step 2*. 在自己的项目里提交笔记和作业到对应课程的指定文件夹。
+> 注意：cs224n的作业位于`Assignments`目录下，个人笔记和感悟位于`FeatureNotes`目录下，课程项目位于`Project`目录下。这三个目录均为开放性目录，每个人均可通过`pull request`来完成提交。提交细节请参考对应目录下的README文件。
 
-cs224n的作业位于`/CS224n-winter-together/Assignments`目录下对应章节的压缩文件中，命名为homeworkX.zip。
-
-```
-unzip homework1.zip #解压缩作业
-mv homework1 happy  #将作业进行改名,为了方便最后的提交不产生不必要的冲突,解压缩后改为自己的github名后，即可根据要求完成相应作业。
-```
-
-*step 3.* 本地仓库保存后，push至自己的github并创建 pull request (pr)。
-
-```
-git push -u origin master
-```
+*step 3.* 在本地完成的提交后，通过`git push`将本地提交推送至自己的github远程仓库后，发起`pull request`。
 
 <center><img width="70%" src=".README/3.jpg"></img></center>
 
-关于作业提交的详细教程 [这里](https://blog.csdn.net/zyy617532750/article/details/104262005)
+关于作业提交的详细git教程见 [这里](https://blog.csdn.net/zyy617532750/article/details/104262005)
 
 
 ### 课前准备FAQ
