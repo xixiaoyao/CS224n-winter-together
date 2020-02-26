@@ -1,3 +1,5 @@
-+ [cs224n学习笔记L1:自然语言处理简介](https://blog.csdn.net/geek_hch/article/details/104202223)
-+ [cs224n学习笔记L2:word vectors and word senses](https://blog.csdn.net/geek_hch/article/details/104291282)
-+ [cs224n学习笔记L3:Neural Networks基础](https://blog.csdn.net/geek_hch/article/details/104410262)
++ [cs224n学习笔记week1-L1:自然语言处理简介](https://blog.csdn.net/geek_hch/article/details/104202223)
++ [cs224n学习笔记week2-L2:word vectors and word senses](https://blog.csdn.net/geek_hch/article/details/104291282)
++ [cs224n学习笔记week3-L3:Neural Networks基础](https://blog.csdn.net/geek_hch/article/details/104410262)
++ [cs224n学习笔记week3-L4:ackpropagation and computation graphs](https://blog.csdn.net/geek_hch/article/details/104443297)
++ [cs224n学习笔记week3-L5:Dpendency Parsing](https://blog.csdn.net/geek_hch/article/details/104484618)
