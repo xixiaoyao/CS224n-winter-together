@@ -4,4 +4,4 @@
 + [cs224n学习笔记week3-L4:ackpropagation and computation graphs](https://blog.csdn.net/geek_hch/article/details/104443297)
 + [cs224n学习笔记week3-L5:Dpendency Parsing](https://blog.csdn.net/geek_hch/article/details/104484618)
 + [cs224n学习笔记week4-L6: Language models and RNNs](https://blog.csdn.net/geek_hch/article/details/104520145)
-+ [cs224n学习笔记L7: 梯度消失和高级RNN](https://blog.csdn.net/geek_hch/article/details/104543068)
++ [cs224n学习笔记week4-L7: 梯度消失和高级RNN](https://blog.csdn.net/geek_hch/article/details/104543068)
