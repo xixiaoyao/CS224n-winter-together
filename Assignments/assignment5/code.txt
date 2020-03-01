@@ -1,0 +1,3 @@
+Starter code for Stanford CS224n default final project on SQuAD 2.0
+
+https://github.com/minggg/squad
