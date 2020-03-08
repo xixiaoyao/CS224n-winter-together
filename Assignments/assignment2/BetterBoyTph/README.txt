@@ -1,0 +1,1 @@
+naiveSoftmaxLossAndGradient.jpg和negSamplingLossAndGradient.jpg分别记录了对word2vec.py文件中naiveSoftmaxLossAndGradient和negSamplingLossAndGradient函数求损失和梯度的数学推导
