@@ -1,0 +1,73 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/Emma/Documents/Winter_2020/cs224n-1920/assignments/prototypes/hw1/student
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=92534f25b04229c4a6f1373aad7bce26433fc142c0d263a3
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=92534f25b04229c4a6f1373aad7bce26433fc142c0d263a3
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] Notebook exploring_word_vectors.ipynb is not trusted
+[NotebookApp | WARNING] 404 GET /nbextensions/canopy/training/exercise.js?v=20191224173115 (::1) 13.61ms referer=http://localhost:8888/notebooks/exploring_word_vectors.ipynb?token=c19853ef8a87746f987809bb24a42bd1d7e520048cd51355
+[NotebookApp | INFO] Kernel started: 41a1f994-cf42-44bf-b93c-6c395a560248
+[NotebookApp | INFO] 302 GET /notebooks/imgs/test_plot.png (::1) 2.03ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/inner_product.png (::1) 5.36ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/svd.png (::1) 1.56ms
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20191224173115 (::1) 5.59ms referer=http://localhost:8888/notebooks/exploring_word_vectors.ipynb?token=c19853ef8a87746f987809bb24a42bd1d7e520048cd51355
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 41a1f994-cf42-44bf-b93c-6c395a560248
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/Emma/Documents/Winter_2020/cs224n-1920/assignments/prototypes/hw1/student
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=1dedb8e6c4421eff2aa3d7653eee0e47f3f1d2edfa412b88
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=1dedb8e6c4421eff2aa3d7653eee0e47f3f1d2edfa412b88
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /nbextensions/canopy/training/exercise.js?v=20200106171436 (::1) 14.75ms referer=http://localhost:8888/notebooks/exploring_word_vectors.ipynb
+[NotebookApp | INFO] Kernel started: 118645cf-33db-4221-b536-85f3e92ac5e6
+[NotebookApp | INFO] 302 GET /notebooks/imgs/test_plot.png (::1) 2.51ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/inner_product.png (::1) 1.48ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/svd.png (::1) 1.65ms
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200106171436 (::1) 3.81ms referer=http://localhost:8888/notebooks/exploring_word_vectors.ipynb
+[NotebookApp | INFO] interrupted
+[NotebookApp | CRITICAL] Shutdown confirmed
+[NotebookApp | INFO] Shutting down kernels
+[NotebookApp | INFO] Kernel shutdown: 118645cf-33db-4221-b536-85f3e92ac5e6
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /Users/Emma/Documents/Winter_2020/cs224n-1920/assignments/prototypes/hw1/student
+[NotebookApp | INFO] 0 active kernels 
+[NotebookApp | INFO] The Jupyter Notebook is running at: http://localhost:8888/?token=09eb4fdc095886a9619784a441a397a62676454c171beaeb
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=09eb4fdc095886a9619784a441a397a62676454c171beaeb
+[NotebookApp | INFO] Accepting one-time-token-authenticated connection from ::1
+[NotebookApp | WARNING] 404 GET /nbextensions/canopy/training/exercise.js?v=20200106171547 (::1) 10.38ms referer=http://localhost:8888/notebooks/exploring_word_vectors.ipynb
+[NotebookApp | INFO] Kernel started: d1c8ed4c-5532-4087-9540-a23cb6f65f7f
+[NotebookApp | INFO] 302 GET /notebooks/imgs/test_plot.png (::1) 1.97ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/inner_product.png (::1) 1.47ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/svd.png (::1) 3.09ms
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200106171547 (::1) 2.24ms referer=http://localhost:8888/notebooks/exploring_word_vectors.ipynb
+[NotebookApp | INFO] Kernel shutdown: d1c8ed4c-5532-4087-9540-a23cb6f65f7f
+[NotebookApp | INFO] Kernel started: 6e94ea74-e351-4004-9e37-a666a0217010
+[NotebookApp | INFO] Saving file at /exploring_word_vectors.ipynb
+[NotebookApp | INFO] Saving file at /exploring_word_vectors.ipynb
+[NotebookApp | WARNING] 404 GET /nbextensions/canopy/training/exercise.js?v=20200106171547 (::1) 3.50ms referer=http://localhost:8888/notebooks/exploring_word_vectors.ipynb
+[NotebookApp | INFO] 302 GET /notebooks/imgs/svd.png (::1) 1.47ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/test_plot.png (::1) 1.15ms
+[NotebookApp | INFO] 302 GET /notebooks/imgs/inner_product.png (::1) 1.43ms
+[NotebookApp | WARNING] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20200106171547 (::1) 2.44ms referer=http://localhost:8888/notebooks/exploring_word_vectors.ipynb
+[NotebookApp | INFO] Saving file at /exploring_word_vectors.ipynb

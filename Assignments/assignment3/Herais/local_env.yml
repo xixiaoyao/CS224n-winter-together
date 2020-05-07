@@ -1,0 +1,11 @@
+name: a3
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.7
+  - numpy
+  - tqdm
+  - docopt
+  - pytorch
+  - torchvision
