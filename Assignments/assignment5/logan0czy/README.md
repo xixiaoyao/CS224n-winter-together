@@ -17,11 +17,13 @@ i.`word2vec all`--nearest words for each item
 * `Francisco`: san, jose, diego, california, los  
 * `naturally`: occurring, easily, natural, humans, therefore  
 * `expectation`: operator, assumption, consequence, otherwise, implies  
+
 ii. `character-base`--nearest words for same items  
 * `financial`: vertical, informal, physical, cultural, electrical  
 * `neuron`: Newton, George, NBA, Delhi, golden  
 * `Francisco`: France, platform, tissue, Foundation, microphone  
 * `naturally`: practically, typically, significantly, mentally, gradually  
 * `expectation`: exception, indication, integration, separation, expected  
+
 iii.  
 Word2Vec是语义相似性，CharCNN是形式上的相似。从各自的模型来看，Word2Vec是基于上下文训练得出word embedding，所以能够很好的反应各词之间的语义信息；而CharCNN对字符向量运用卷积，因为单一的字符是没有确切的意义的，所以卷积得到的结果很可能就是根据词的组成字符的相似性得出的。  
