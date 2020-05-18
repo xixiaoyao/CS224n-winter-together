@@ -41,6 +41,8 @@
 
 微信公众号**夕小瑶的卖萌屋**将每周推送两集课程视频（中英双语字幕）和对应的官方ppt/笔记/推荐阅读材料等，并发布课后作业。
 
+推送计划（英文目录）：
+
 - [week1：Introduction and Word Vectors](http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485594&idx=1&sn=ffb84da1be4042deac7067e20f620ada&chksm=970c204ca07ba95a2cc7a0ef6205356f859c88518b9a70a8b4c1901c4365254637f3eada56db&scene=21#wechat_redirect)
 - [week2：Word Vectors 2 and Word Senses / Word Window Classification and Neural Networks](http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&scene=21#wechat_redirect)
 - [week3：Matrix Calculus and Backpropagation / Linguistic Structure: Dependency Parsing](http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485709&idx=1&sn=4d79ed9086289fef8a8e54dfb7f18104&chksm=970c21dba07ba8cd22b26767dcc85f6fc41c9e852ee9706d1ecf3787a3cdbdaa56735f207894&scene=21#wechat_redirect)
@@ -53,6 +55,7 @@
 - [week10：Constituency Parsing and Tree Recursive Neural Networks / Recent Advances in Low Resource Machine Translation](http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247486486&idx=2&sn=05b012543a75629efe71c473088d3603&chksm=970c24c0a07badd65df1756c07945915704e31dcc595beacd965ac6ad8b31c739a970db99417&scene=21#wechat_redirect)
 - [week11：Future of NLP + Deep Learning](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247486666&idx=2&sn=b3e76532257ecf165d2d9567f1627350&chksm=970c241ca07bad0a37cb89e686ec72f5ee255952524a22623338c49b30d43a2a5b62136e003c&scene=38#wechat_redirect)
 
+推送计划（英文目录）：
 
 - [Week1：课程简介与词向量（附追剧计划详细攻略）](http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485594&idx=1&sn=ffb84da1be4042deac7067e20f620ada&chksm=970c204ca07ba95a2cc7a0ef6205356f859c88518b9a70a8b4c1901c4365254637f3eada56db&scene=21#wechat_redirect)
 - [Week2：词向量与词义/词窗分类与神经网络（附追剧计划详细攻略）](http://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247485633&idx=1&sn=24f65254ae07f53ebb1d976b37d2573b&chksm=970c2017a07ba90182d85fc0a238d3234bd9fe3eb357371db756ba73e321f733d52658fe941b&scene=21#wechat_redirect)
