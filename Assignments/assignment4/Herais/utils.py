@@ -33,9 +33,10 @@ def pad_sents(sents, pad_token):
     sents_padded = []
 
     ### YOUR CODE HERE (~6 Lines)
-
-
-
+    import pandas as pd
+    sents_padded = pd.DataFrame(sents)
+    sents_padded.fillna(value=pad_token, inplace=True)
+    sents_padded = sents_padded.values.tolist()
     ### END YOUR CODE
 
     return sents_padded
